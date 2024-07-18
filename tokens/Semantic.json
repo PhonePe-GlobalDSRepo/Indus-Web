@@ -75,6 +75,126 @@
           "type": "color"
         }
       }
+    },
+    "BorderRadius": {
+      "0": {
+        "value": "{base.BorderRadius.0}",
+        "type": "borderRadius"
+      },
+      "4": {
+        "value": "{base.BorderRadius.4}",
+        "type": "borderRadius"
+      },
+      "8": {
+        "value": "{base.BorderRadius.8}",
+        "type": "borderRadius"
+      },
+      "16": {
+        "value": "{base.BorderRadius.16}",
+        "type": "borderRadius"
+      },
+      "24": {
+        "value": "{base.BorderRadius.24}",
+        "type": "borderRadius"
+      },
+      "32": {
+        "value": "{base.BorderRadius.32}",
+        "type": "borderRadius"
+      },
+      "100%": {
+        "value": "{base.BorderRadius.1000}",
+        "type": "borderRadius"
+      }
+    },
+    "BorderWidth": {
+      "0": {
+        "value": "{base.BorderWidth.0}",
+        "type": "borderWidth"
+      },
+      "1": {
+        "value": "{base.BorderWidth.1}",
+        "type": "borderWidth"
+      },
+      "2": {
+        "value": "{base.BorderWidth.2}",
+        "type": "borderWidth"
+      }
+    },
+    "FontWeight": {
+      "Regular": {
+        "value": "{base.FontWeight.Regular}",
+        "type": "fontWeights"
+      },
+      "Bold": {
+        "value": "{base.FontWeight.Bold}",
+        "type": "fontWeights"
+      }
+    },
+    "LineHeight": {
+      "100%": {
+        "value": "{base.LineHeight.100%}",
+        "type": "lineHeights"
+      },
+      "125%": {
+        "value": "{base.LineHeight.125%}",
+        "type": "lineHeights"
+      },
+      "135%": {
+        "value": "{base.LineHeight.135%}",
+        "type": "lineHeights"
+      },
+      "150%": {
+        "value": "{base.LineHeight.150%}",
+        "type": "lineHeights"
+      }
+    },
+    "FontFamily": {
+      "Default": {
+        "value": "{base.FontFamily.Roboto}",
+        "type": "fontFamilies"
+      }
+    },
+    "FontSize": {
+      "10": {
+        "value": "{base.FontSize.10}",
+        "type": "fontSizes"
+      },
+      "12": {
+        "value": "{base.FontSize.12}",
+        "type": "fontSizes"
+      },
+      "14": {
+        "value": "{base.FontSize.14}",
+        "type": "fontSizes"
+      },
+      "16": {
+        "value": "{base.FontSize.16}",
+        "type": "fontSizes"
+      },
+      "20": {
+        "value": "{base.FontSize.20}",
+        "type": "fontSizes"
+      },
+      "24": {
+        "value": "{base.FontSize.24}",
+        "type": "fontSizes"
+      },
+      "32": {
+        "value": "{base.FontSize.32}",
+        "type": "fontSizes"
+      },
+      "40": {
+        "value": "{base.FontSize.40}",
+        "type": "fontSizes"
+      },
+      "48": {
+        "value": "{base.FontSize.48}",
+        "type": "fontSizes"
+      },
+      "56": {
+        "value": "{base.FontSize.56}",
+        "type": "fontSizes"
+      }
     }
   }
 }
