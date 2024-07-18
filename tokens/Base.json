@@ -1589,6 +1589,24 @@
         "value": "150%",
         "type": "lineHeights"
       }
+    },
+    "TextCase": {
+      "None": {
+        "value": "none",
+        "type": "textCase"
+      },
+      "Uppercase": {
+        "value": "uppercase",
+        "type": "textCase"
+      },
+      "Lowercase": {
+        "value": "lowercase",
+        "type": "textCase"
+      },
+      "Capitalize": {
+        "value": "capitalize",
+        "type": "textCase"
+      }
     }
   }
 }
