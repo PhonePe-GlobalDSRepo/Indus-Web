@@ -1,0 +1,80 @@
+{
+  "semantic": {
+    "Spacing": {
+      "0": {
+        "value": "{base.Spacing.0}",
+        "type": "spacing"
+      },
+      "4": {
+        "value": "{base.Spacing.4}",
+        "type": "spacing"
+      },
+      "8": {
+        "value": "{base.Spacing.8}",
+        "type": "spacing"
+      },
+      "12": {
+        "value": "{base.Spacing.12}",
+        "type": "spacing"
+      },
+      "16": {
+        "value": "{base.Spacing.16}",
+        "type": "spacing"
+      },
+      "24": {
+        "value": "{base.Spacing.24}",
+        "type": "spacing"
+      },
+      "32": {
+        "value": "{base.Spacing.32}",
+        "type": "spacing"
+      },
+      "40": {
+        "value": "{base.Spacing.40}",
+        "type": "spacing"
+      },
+      "56": {
+        "value": "{base.Spacing.56}",
+        "type": "spacing"
+      },
+      "72": {
+        "value": "{base.Spacing.72}",
+        "type": "spacing"
+      },
+      "80": {
+        "value": "{base.Spacing.80}",
+        "type": "spacing"
+      },
+      "96": {
+        "value": "{base.Spacing.96}",
+        "type": "spacing"
+      }
+    },
+    "Color": {
+      "Brand": {
+        "Primary": {
+          "value": "{base.Color.Blue.900}",
+          "type": "color"
+        }
+      },
+      "CTA": {
+        "Background": {
+          "value": "{base.Color.Blue.900}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{base.Color.Blue.900}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{base.Color.Blue.900}",
+          "type": "color"
+        },
+        "Border": {
+          "value": "{base.Color.Blue.900}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
