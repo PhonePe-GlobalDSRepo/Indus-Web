@@ -135,6 +135,10 @@
         "value": "{base.LineHeight.100%}",
         "type": "lineHeights"
       },
+      "115%": {
+        "value": "{base.LineHeight.115%}",
+        "type": "lineHeights"
+      },
       "125%": {
         "value": "{base.LineHeight.125%}",
         "type": "lineHeights"
@@ -194,6 +198,131 @@
       "56": {
         "value": "{base.FontSize.56}",
         "type": "fontSizes"
+      }
+    },
+    "TextCase": {
+      "None": {
+        "value": "{base.TextCase.None}",
+        "type": "textCase"
+      }
+    },
+    "TextDecoration": {
+      "None": {
+        "value": "{base.TextDecoration.None}",
+        "type": "textDecoration"
+      },
+      "Underline": {
+        "value": "{base.TextDecoration.Underline}",
+        "type": "textDecoration"
+      },
+      "LineThrough": {
+        "value": "{base.TextDecoration.LineThrough}",
+        "type": "textDecoration"
+      }
+    },
+    "Typography": {
+      "Heading": {
+        "XXXL": {
+          "value": {
+            "fontFamily": "{semantic.FontFamily.Default}",
+            "fontWeight": "{semantic.FontWeight.Bold}",
+            "fontSize": "{semantic.FontSize.56}",
+            "lineHeight": "{semantic.LineHeight.115%}"
+          },
+          "type": "typography"
+        },
+        "XXL": {
+          "value": {
+            "fontFamily": "{semantic.FontFamily.Default}",
+            "fontWeight": "{semantic.FontWeight.Bold}",
+            "fontSize": "{semantic.FontSize.48}",
+            "lineHeight": "{semantic.LineHeight.115%}"
+          },
+          "type": "typography"
+        },
+        "XL": {
+          "value": {
+            "fontFamily": "{semantic.FontFamily.Default}",
+            "fontWeight": "{semantic.FontWeight.Bold}",
+            "fontSize": "{semantic.FontSize.40}",
+            "lineHeight": "{semantic.LineHeight.115%}"
+          },
+          "type": "typography"
+        },
+        "L": {
+          "value": {
+            "fontFamily": "{semantic.FontFamily.Default}",
+            "fontWeight": "{semantic.FontWeight.Bold}",
+            "fontSize": "{semantic.FontSize.32}",
+            "lineHeight": "{semantic.LineHeight.115%}"
+          },
+          "type": "typography"
+        },
+        "M": {
+          "value": {
+            "fontFamily": "{semantic.FontFamily.Default}",
+            "fontWeight": "{semantic.FontWeight.Bold}",
+            "fontSize": "{semantic.FontSize.24}",
+            "lineHeight": "{semantic.LineHeight.115%}"
+          },
+          "type": "typography"
+        },
+        "S": {
+          "value": {
+            "fontFamily": "{semantic.FontFamily.Default}",
+            "fontWeight": "{semantic.FontWeight.Bold}",
+            "fontSize": "{semantic.FontSize.20}",
+            "lineHeight": "{semantic.LineHeight.115%}"
+          },
+          "type": "typography"
+        },
+        "XS": {
+          "value": {
+            "fontFamily": "{semantic.FontFamily.Default}",
+            "fontWeight": "{semantic.FontWeight.Bold}",
+            "fontSize": "{semantic.FontSize.16}",
+            "lineHeight": "{semantic.LineHeight.115%}"
+          },
+          "type": "typography"
+        }
+      },
+      "Body": {
+        "L": {
+          "value": {
+            "fontFamily": "{semantic.FontFamily.Default}",
+            "fontWeight": "{semantic.FontWeight.Regular}",
+            "fontSize": "{semantic.FontSize.16}",
+            "lineHeight": "{semantic.LineHeight.135%}"
+          },
+          "type": "typography"
+        },
+        "M": {
+          "value": {
+            "fontFamily": "{semantic.FontFamily.Default}",
+            "fontWeight": "{semantic.FontWeight.Regular}",
+            "fontSize": "{semantic.FontSize.14}",
+            "lineHeight": "{semantic.LineHeight.135%}"
+          },
+          "type": "typography"
+        },
+        "S": {
+          "value": {
+            "fontFamily": "{semantic.FontFamily.Default}",
+            "fontWeight": "{semantic.FontWeight.Regular}",
+            "fontSize": "{semantic.FontSize.12}",
+            "lineHeight": "{semantic.LineHeight.135%}"
+          },
+          "type": "typography"
+        },
+        "XS": {
+          "value": {
+            "fontFamily": "{semantic.FontFamily.Default}",
+            "fontWeight": "{semantic.FontWeight.Regular}",
+            "fontSize": "{semantic.FontSize.10}",
+            "lineHeight": "{semantic.LineHeight.135%}"
+          },
+          "type": "typography"
+        }
       }
     }
   }
