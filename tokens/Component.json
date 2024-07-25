@@ -1,1 +1,46 @@
-{}
+{
+  "component": {
+    "Color": {
+      "Button": {
+        "Primary": {
+          "Active": {
+            "Background": {
+              "value": "{semantic.Color.CTA.Background}",
+              "type": "color"
+            },
+            "Text": {
+              "value": "{semantic.Color.Text.Inverse}",
+              "type": "color"
+            },
+            "Border": {
+              "value": "{semantic.Color.CTA.Border}",
+              "type": "color"
+            },
+            "Icon": {
+              "value": "{semantic.Color.Icon.Inverse}",
+              "type": "color"
+            }
+          },
+          "Disabled": {
+            "Background": {
+              "value": "{semantic.Color.Disabled.Background}",
+              "type": "color"
+            },
+            "Text": {
+              "value": "{semantic.Color.Disabled.Text}",
+              "type": "color"
+            },
+            "Border": {
+              "value": "{semantic.Color.Disabled.Background}",
+              "type": "color"
+            },
+            "Icon": {
+              "value": "{semantic.Color.Disabled.Icon}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    }
+  }
+}
