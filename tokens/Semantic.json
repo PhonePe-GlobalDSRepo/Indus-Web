@@ -66,11 +66,11 @@
           "value": "{base.Color.Blue.900}",
           "type": "color"
         },
-        "Icon": {
+        "Border": {
           "value": "{base.Color.Blue.900}",
           "type": "color"
         },
-        "Border": {
+        "Icon": {
           "value": "{base.Color.Blue.900}",
           "type": "color"
         }
@@ -566,6 +566,35 @@
             "fontWeight": "{semantic.FontWeight.Regular}",
             "fontSize": "{semantic.FontSize.10}",
             "lineHeight": "{semantic.LineHeight.135%}"
+          },
+          "type": "typography"
+        }
+      },
+      "Button": {
+        "S": {
+          "value": {
+            "fontFamily": "{semantic.FontFamily.Default}",
+            "fontWeight": "{semantic.FontWeight.Bold}",
+            "fontSize": "{semantic.FontSize.12}",
+            "lineHeight": "{semantic.LineHeight.125%}"
+          },
+          "type": "typography"
+        },
+        "M": {
+          "value": {
+            "fontFamily": "{semantic.FontFamily.Default}",
+            "fontWeight": "{semantic.FontWeight.Bold}",
+            "fontSize": "{semantic.FontSize.14}",
+            "lineHeight": "{semantic.LineHeight.125%}"
+          },
+          "type": "typography"
+        },
+        "L": {
+          "value": {
+            "fontFamily": "{semantic.FontFamily.Default}",
+            "fontWeight": "{semantic.FontWeight.Bold}",
+            "fontSize": "{semantic.FontSize.16}",
+            "lineHeight": "{semantic.LineHeight.125%}"
           },
           "type": "typography"
         }
