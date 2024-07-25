@@ -571,11 +571,11 @@
         }
       },
       "Button": {
-        "S": {
+        "L": {
           "value": {
             "fontFamily": "{semantic.FontFamily.Default}",
             "fontWeight": "{semantic.FontWeight.Bold}",
-            "fontSize": "{semantic.FontSize.12}",
+            "fontSize": "{semantic.FontSize.16}",
             "lineHeight": "{semantic.LineHeight.125%}"
           },
           "type": "typography"
@@ -589,11 +589,11 @@
           },
           "type": "typography"
         },
-        "L": {
+        "S": {
           "value": {
             "fontFamily": "{semantic.FontFamily.Default}",
             "fontWeight": "{semantic.FontWeight.Bold}",
-            "fontSize": "{semantic.FontSize.16}",
+            "fontSize": "{semantic.FontSize.12}",
             "lineHeight": "{semantic.LineHeight.125%}"
           },
           "type": "typography"
