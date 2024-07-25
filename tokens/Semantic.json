@@ -74,6 +74,252 @@
           "value": "{base.Color.Blue.900}",
           "type": "color"
         }
+      },
+      "Surface": {
+        "PageBackground": {
+          "value": "{base.Color.Grey.100}",
+          "type": "color"
+        },
+        "PrimaryLayer": {
+          "value": "{base.Color.Neutral.White}",
+          "type": "color"
+        },
+        "ElevatedLayer": {
+          "value": "{base.Color.Neutral.White}",
+          "type": "color"
+        }
+      },
+      "Success": {
+        "BackgroundBold": {
+          "value": "{base.Color.Green.800}",
+          "type": "color"
+        },
+        "BackgroundSubtle": {
+          "value": "{base.Color.Green.50}",
+          "type": "color"
+        },
+        "TextBold": {
+          "value": "{base.Color.Green.800}",
+          "type": "color"
+        },
+        "TextSubtle": {
+          "value": "{base.Color.Neutral.White}",
+          "type": "color"
+        },
+        "BorderBold": {
+          "value": "{base.Color.Green.800}",
+          "type": "color"
+        },
+        "BorderSubtle": {
+          "value": "{base.Color.Green.200}",
+          "type": "color"
+        },
+        "IconBold": {
+          "value": "{base.Color.Green.800}",
+          "type": "color"
+        },
+        "IconSubtle": {
+          "value": "{base.Color.Neutral.White}",
+          "type": "color"
+        }
+      },
+      "Warning": {
+        "BackgroundBold": {
+          "value": "{base.Color.Orange.900}",
+          "type": "color"
+        },
+        "BackgroundSubtle": {
+          "value": "{base.Color.Orange.50}",
+          "type": "color"
+        },
+        "TextBold": {
+          "value": "{base.Color.Orange.900}",
+          "type": "color"
+        },
+        "TextSubtle": {
+          "value": "{base.Color.Neutral.White}",
+          "type": "color"
+        },
+        "BorderBold": {
+          "value": "{base.Color.Orange.900}",
+          "type": "color"
+        },
+        "BorderSubtle": {
+          "value": "{base.Color.Orange.200}",
+          "type": "color"
+        },
+        "IconBold": {
+          "value": "{base.Color.Orange.900}",
+          "type": "color"
+        },
+        "IconSubtle": {
+          "value": "{base.Color.Neutral.White}",
+          "type": "color"
+        }
+      },
+      "Danger": {
+        "BackgroundBold": {
+          "value": "{base.Color.Red.900}",
+          "type": "color"
+        },
+        "BackgroundSubtle": {
+          "value": "{base.Color.Red.50}",
+          "type": "color"
+        },
+        "TextBold": {
+          "value": "{base.Color.Red.900}",
+          "type": "color"
+        },
+        "TextSubtle": {
+          "value": "{base.Color.Neutral.White}",
+          "type": "color"
+        },
+        "BorderBold": {
+          "value": "{base.Color.Red.900}",
+          "type": "color"
+        },
+        "BorderSubtle": {
+          "value": "{base.Color.Red.200}",
+          "type": "color"
+        },
+        "IconBold": {
+          "value": "{base.Color.Red.900}",
+          "type": "color"
+        },
+        "IconSubtle": {
+          "value": "{base.Color.Neutral.White}",
+          "type": "color"
+        }
+      },
+      "Info": {
+        "BackgroundBold": {
+          "value": "{base.Color.Blue.700}",
+          "type": "color"
+        },
+        "BackgroundSubtle": {
+          "value": "{base.Color.Blue.50}",
+          "type": "color"
+        },
+        "TextBold": {
+          "value": "{base.Color.Blue.700}",
+          "type": "color"
+        },
+        "TextSubtle": {
+          "value": "{base.Color.Neutral.White}",
+          "type": "color"
+        },
+        "BorderBold": {
+          "value": "{base.Color.Blue.700}",
+          "type": "color"
+        },
+        "BorderSubtle": {
+          "value": "{base.Color.Blue.200}",
+          "type": "color"
+        },
+        "IconBold": {
+          "value": "{base.Color.Blue.700}",
+          "type": "color"
+        },
+        "IconSubtle": {
+          "value": "{base.Color.Neutral.White}",
+          "type": "color"
+        }
+      },
+      "Selection": {
+        "Background": {
+          "value": "{base.Color.Green.800}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{base.Color.Green.800}",
+          "type": "color"
+        },
+        "Border": {
+          "value": "{base.Color.Green.800}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{base.Color.Green.800}",
+          "type": "color"
+        }
+      },
+      "Disabled": {
+        "Background": {
+          "value": "{base.Color.Grey.300}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{base.Color.Grey.500}",
+          "type": "color"
+        },
+        "Border": {
+          "value": "{base.Color.Grey.500}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{base.Color.Grey.500}",
+          "type": "color"
+        }
+      },
+      "Border": {
+        "Brand": {
+          "value": "{semantic.Color.Brand.Primary}",
+          "type": "color"
+        },
+        "Default": {
+          "value": "{base.Color.Grey.500}",
+          "type": "color"
+        },
+        "Inverse": {
+          "value": "{base.Color.Neutral.White}",
+          "type": "color"
+        }
+      },
+      "Icon": {
+        "Brand": {
+          "value": "{semantic.Color.Brand.Primary}",
+          "type": "color"
+        },
+        "Primary": {
+          "value": "{base.Color.Grey.800}",
+          "type": "color"
+        },
+        "Inverse": {
+          "value": "{semantic.Color.Neutral.White}",
+          "type": "color"
+        }
+      },
+      "Text": {
+        "Brand": {
+          "value": "{semantic.Color.Brand.Primary}",
+          "type": "color"
+        },
+        "Primary": {
+          "value": "{base.Color.Grey.900}",
+          "type": "color"
+        },
+        "Secondary": {
+          "value": "{base.Color.Grey.700}",
+          "type": "color"
+        },
+        "Tertiary": {
+          "value": "{base.Color.Grey.500}",
+          "type": "color"
+        },
+        "Inverse": {
+          "value": "{base.Color.Neutral.White}",
+          "type": "color"
+        }
+      },
+      "Neutral": {
+        "Black": {
+          "value": "{base.Color.Neutral.Black}",
+          "type": "color"
+        },
+        "White": {
+          "value": "{base.Color.Neutral.White}",
+          "type": "color"
+        }
       }
     },
     "BorderRadius": {
@@ -323,6 +569,74 @@
           },
           "type": "typography"
         }
+      }
+    },
+    "Size": {
+      "0": {
+        "value": "{base.Size.0}",
+        "type": "sizing"
+      },
+      "1": {
+        "value": "{base.Size.1}",
+        "type": "sizing"
+      },
+      "2": {
+        "value": "{base.Size.2}",
+        "type": "sizing"
+      },
+      "4": {
+        "value": "{base.Size.4}",
+        "type": "sizing"
+      },
+      "8": {
+        "value": "{base.Size.8}",
+        "type": "sizing"
+      },
+      "12": {
+        "value": "{base.Size.12}",
+        "type": "sizing"
+      },
+      "16": {
+        "value": "{base.Size.16}",
+        "type": "sizing"
+      },
+      "20": {
+        "value": "{base.Size.20}",
+        "type": "sizing"
+      },
+      "24": {
+        "value": "{base.Size.24}",
+        "type": "sizing"
+      },
+      "32": {
+        "value": "{base.Size.32}",
+        "type": "sizing"
+      },
+      "40": {
+        "value": "{base.Size.40}",
+        "type": "sizing"
+      },
+      "48": {
+        "value": "{base.Size.48}",
+        "type": "sizing"
+      },
+      "56": {
+        "value": "{base.Size.56}",
+        "type": "sizing"
+      },
+      "64": {
+        "value": "{base.Size.64}",
+        "type": "sizing"
+      },
+      "96": {
+        "value": "{base.Size.96}",
+        "type": "sizing"
+      }
+    },
+    "Opacity": {
+      "50%": {
+        "value": "{base.Opacity.50%}",
+        "type": "opacity"
       }
     }
   }
