@@ -59,19 +59,19 @@
       },
       "CTA": {
         "Background": {
-          "value": "{base.Color.Blue.900}",
+          "value": "{semantic.Color.Brand.Primary}",
           "type": "color"
         },
         "Text": {
-          "value": "{base.Color.Blue.900}",
+          "value": "{semantic.Color.Brand.Primary}",
           "type": "color"
         },
         "Border": {
-          "value": "{base.Color.Blue.900}",
+          "value": "{semantic.Color.Brand.Primary}",
           "type": "color"
         },
         "Icon": {
-          "value": "{base.Color.Blue.900}",
+          "value": "{semantic.Color.Brand.Primary}",
           "type": "color"
         }
       },
