@@ -39,6 +39,58 @@
               "type": "color"
             }
           }
+        },
+        "Secondary": {
+          "Active": {
+            "Text": {
+              "value": "{semantic.Color.CTA.Text}",
+              "type": "color"
+            },
+            "Border": {
+              "value": "{semantic.Color.CTA.Border}",
+              "type": "color"
+            },
+            "Icon": {
+              "value": "{semantic.Color.CTA.Icon}",
+              "type": "color"
+            }
+          },
+          "Disabled": {
+            "Text": {
+              "value": "{semantic.Color.Disabled.Text}",
+              "type": "color"
+            },
+            "Border": {
+              "value": "{semantic.Color.Disabled.Border}",
+              "type": "color"
+            },
+            "Icon": {
+              "value": "{semantic.Color.Disabled.Icon}",
+              "type": "color"
+            }
+          }
+        },
+        "Tertiary": {
+          "Active": {
+            "Text": {
+              "value": "{semantic.Color.CTA.Text}",
+              "type": "color"
+            },
+            "Icon": {
+              "value": "{semantic.Color.CTA.Icon}",
+              "type": "color"
+            }
+          },
+          "Disabled": {
+            "Text": {
+              "value": "{semantic.Color.Disabled.Text}",
+              "type": "color"
+            },
+            "Icon": {
+              "value": "{semantic.Color.Disabled.Icon}",
+              "type": "color"
+            }
+          }
         }
       }
     }
