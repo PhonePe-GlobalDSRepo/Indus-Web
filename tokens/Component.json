@@ -92,6 +92,150 @@
             }
           }
         }
+      },
+      "InputField": {
+        "Default": {
+          "Background": {
+            "value": "{semantic.Color.Surface.PrimaryLayer}",
+            "type": "color"
+          },
+          "LabelText": {
+            "value": "{semantic.Color.Text.Primary}",
+            "type": "color"
+          },
+          "PlaceholderText": {
+            "value": "{semantic.Color.Text.Tertiary}",
+            "type": "color"
+          },
+          "InputText": {
+            "value": "{semantic.Color.Text.Primary}",
+            "type": "color"
+          },
+          "HintText": {
+            "value": "{semantic.Color.Text.Secondary}",
+            "type": "color"
+          },
+          "Border": {
+            "value": "{semantic.Color.Border.Default}",
+            "type": "color"
+          },
+          "InputIcon": {
+            "value": "{semantic.Color.Icon.Primary}",
+            "type": "color"
+          },
+          "HintIcon": {
+            "value": "{semantic.Color.Icon.Primary}",
+            "type": "color"
+          }
+        },
+        "Active": {
+          "Background": {
+            "value": "{semantic.Color.Surface.PrimaryLayer}",
+            "type": "color"
+          },
+          "LabelText": {
+            "value": "{semantic.Color.Text.Primary}",
+            "type": "color"
+          },
+          "PlaceholderText": {
+            "value": "{semantic.Color.Text.Tertiary}",
+            "type": "color"
+          },
+          "InputText": {
+            "value": "{semantic.Color.Text.Primary}",
+            "type": "color"
+          },
+          "HintText": {
+            "value": "{semantic.Color.Text.Secondary}",
+            "type": "color"
+          },
+          "Border": {
+            "value": "{semantic.Color.Border.Brand}",
+            "type": "color"
+          },
+          "InputIcon": {
+            "value": "{semantic.Color.Icon.Primary}",
+            "type": "color"
+          },
+          "HintIcon": {
+            "value": "{semantic.Color.Icon.Primary}",
+            "type": "color"
+          }
+        },
+        "Disabled": {
+          "Background": {
+            "value": "{semantic.Color.Disabled.Background}",
+            "type": "color"
+          },
+          "LabelText": {
+            "value": "{semantic.Color.Disabled.Text}",
+            "type": "color"
+          },
+          "PlaceholderText": {
+            "value": "{semantic.Color.Disabled.Text}",
+            "type": "color"
+          },
+          "HintText": {
+            "value": "{semantic.Color.Disabled.Text}",
+            "type": "color"
+          },
+          "InputIcon": {
+            "value": "{semantic.Color.Disabled.Icon}",
+            "type": "color"
+          },
+          "HintIcon": {
+            "value": "{semantic.Color.Disabled.Icon}",
+            "type": "color"
+          }
+        },
+        "DisabledFilled": {
+          "Background": {
+            "value": "{semantic.Color.Disabled.Background}",
+            "type": "color"
+          },
+          "LabelText": {
+            "value": "{semantic.Color.Disabled.Text}",
+            "type": "color"
+          },
+          "InputText": {
+            "value": "{semantic.Color.Text.Secondary}",
+            "type": "color"
+          },
+          "HintText": {
+            "value": "{semantic.Color.Disabled.Text}",
+            "type": "color"
+          },
+          "InputIcon": {
+            "value": "{semantic.Color.Disabled.Icon}",
+            "type": "color"
+          },
+          "HintIcon": {
+            "value": "{semantic.Color.Disabled.Icon}",
+            "type": "color"
+          }
+        },
+        "Error": {
+          "LabelText": {
+            "value": "{semantic.Color.Danger.TextBold}",
+            "type": "color"
+          },
+          "InputText": {
+            "value": "{semantic.Color.Text.Primary}",
+            "type": "color"
+          },
+          "HintText": {
+            "value": "{semantic.Color.Danger.TextBold}",
+            "type": "color"
+          },
+          "InputIcon": {
+            "value": "{semantic.Color.Icon.Primary}",
+            "type": "color"
+          },
+          "HintIcon": {
+            "value": "{semantic.Color.Danger.IconBold}",
+            "type": "color"
+          }
+        }
       }
     }
   }
