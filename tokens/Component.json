@@ -237,6 +237,122 @@
           }
         }
       }
+    },
+    "Checkbox": {
+      "Default": {
+        "Icon": {
+          "value": "{semantic.Color.Icon.Primary}",
+          "type": "color"
+        },
+        "PrimaryText": {
+          "value": "{semantic.Color.Text.Primary}",
+          "type": "color"
+        },
+        "SecondaryText": {
+          "value": "{semantic.Color.Text.Secondary}",
+          "type": "color"
+        }
+      },
+      "Active": {
+        "Icon": {
+          "value": "{semantic.Color.Selection.Icon}",
+          "type": "color"
+        },
+        "PrimaryText": {
+          "value": "{semantic.Color.Text.Primary}",
+          "type": "color"
+        },
+        "SecondaryText": {
+          "value": "{semantic.Color.Text.Secondary}",
+          "type": "color"
+        }
+      },
+      "Disabled": {
+        "Icon": {
+          "value": "{semantic.Color.Disabled.Icon}",
+          "type": "color"
+        },
+        "PrimaryText": {
+          "value": "{semantic.Color.Disabled.Text}",
+          "type": "color"
+        },
+        "SecondaryText": {
+          "value": "{semantic.Color.Disabled.Text}",
+          "type": "color"
+        }
+      },
+      "Error": {
+        "Icon": {
+          "value": "{semantic.Color.Danger.IconBold}",
+          "type": "color"
+        },
+        "PrimaryText": {
+          "value": "{semantic.Color.Text.Primary}",
+          "type": "color"
+        },
+        "SecondaryText": {
+          "value": "{semantic.Color.Text.Secondary}",
+          "type": "color"
+        }
+      }
+    },
+    "RadioButton": {
+      "Default": {
+        "Icon": {
+          "value": "{semantic.Color.Icon.Primary}",
+          "type": "color"
+        },
+        "PrimaryText": {
+          "value": "{semantic.Color.Text.Primary}",
+          "type": "color"
+        },
+        "SecondaryText": {
+          "value": "{semantic.Color.Text.Secondary}",
+          "type": "color"
+        }
+      },
+      "Active": {
+        "Icon": {
+          "value": "{semantic.Color.Selection.Icon}",
+          "type": "color"
+        },
+        "PrimaryText": {
+          "value": "{semantic.Color.Text.Primary}",
+          "type": "color"
+        },
+        "SecondaryText": {
+          "value": "{semantic.Color.Text.Secondary}",
+          "type": "color"
+        }
+      },
+      "Disabled": {
+        "Icon": {
+          "value": "{semantic.Color.Disabled.Icon}",
+          "type": "color"
+        },
+        "PrimaryText": {
+          "value": "{semantic.Color.Disabled.Text}",
+          "type": "color"
+        },
+        "SecondaryText": {
+          "value": "{semantic.Color.Disabled.Text}",
+          "type": "color"
+        }
+      },
+      "Error": {
+        "Icon": {
+          "value": "{semantic.Color.Danger.IconBold}",
+          "type": "color"
+        },
+        "PrimaryText": {
+          "value": "{semantic.Color.Text.Primary}",
+          "type": "color"
+        },
+        "SecondaryText": {
+          "value": "{semantic.Color.Text.Secondary}",
+          "type": "color"
+        }
+      }
     }
   }
 }
