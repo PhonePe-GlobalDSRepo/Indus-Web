@@ -660,6 +660,10 @@
       "96": {
         "value": "{base.Size.96}",
         "type": "sizing"
+      },
+      "200": {
+        "value": "{base.Size.200}",
+        "type": "sizing"
       }
     },
     "Opacity": {
